@@ -7,8 +7,8 @@
 * 🎯 Multiple **image targets** for different educational themes:
 
   * Mathematics (types of angles)
-  * Reading comprehension
-  * Emotions, Family, Home, School, Animals, Body
+  * Reading comprehension in Spanish
+  * English section
 * 📄 Markers are printed and recognized by the camera to trigger AR content.
 * 📐 All virtual content is displayed as if it were "stuck" to the real-world surface.
 * ⚡ Light, fast and browser-friendly — no app install required!
